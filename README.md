@@ -19,7 +19,7 @@ copy files to be compared to the same path where this will be run.(I have includ
 
 The first thing I did when working was to create two dummy files and ran my wdiff from my terminal to see how it worked. I chose wdiff(instructions on installing wdiff on a mac are below) because of the parameter that gives statistics based on the comparison of two files. After figuring out how this worked, I then learnt how to run linux command from my python IDE. For reference on how to do this, I used the site http://stackoverflow.com/questions/9735863/running-a-linux-command-from-python.
 
-Below are the steps I took.
+Below are the steps .
 ===========================
 I imported subprocess to enable me to run linux command
 I imported operator to enable sorting as results are to be ranked.
